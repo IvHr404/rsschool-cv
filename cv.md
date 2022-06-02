@@ -7,11 +7,12 @@
 **Location:** Dovainonys, Lietuva
 
 **Phone:** +375 29 264 03 47
+
 +370 607 15 275
 
 **E-mail:** ivangro@tut.by
 
-**GitHub:** IvHr404
+**GitHub:** [IvHr404](https://github.com/IvHr404)
 
 **Discord:** Ivan Hramyka (@IvHr404)
 
@@ -23,13 +24,13 @@
 
 ## Skills:
 
-*HTML
-*CSS
-*JS
-*GitHub
-*C#
-*Trello
-\*VS code
+- HTML
+- CSS
+- JS
+- GitHub
+- C#
+- Trello
+- VS code
 
 ---
 
@@ -60,11 +61,12 @@
 
 ##### 2011 - 2016 Belarusian National Technical University
 
-##### 2016 - 2019 IIT Belarusian State University of Informatics and Radio Electronics
+##### 2016 - 2018 IIT Belarusian State University of Informatics and Radio Electronics
 
 ---
 
 ## Languages:
 
 **Russian** - Native
+
 **Engkish** - A1
