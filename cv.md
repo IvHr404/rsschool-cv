@@ -8,7 +8,7 @@
 
 **Phone:** +375 29 264 03 47
 
-+370 607 15 275
+           +370 607 15 275
 
 **E-mail:** ivangro@tut.by
 
@@ -20,16 +20,22 @@
 
 ## About myself:
 
----
+I'm a junior Front-End developer. I can create websites, stylize them and write some functions on JS. I know how to use Chrome Dev Tools and how to work in VS code. I know what is GIT and how to use GitHub.
+
+At the moment I have a weak level of English, but I will fix everything. I’ll devote more time to improving my knowledge.
+
+I put a lot of effort into everything I do, and I’m immersed in my work. I don’t get distracted at work. I know, to achieve something more, needs knowledge and a lot of practice.
+
+## I like activity, movement, travel and sports. I'm friendly and funny.
 
 ## Skills:
 
 - HTML
 - CSS
 - JS
-- GitHub
+- Git: GitHub, Bitbucket
 - C#
-- Trello
+- Trello, Notion
 - VS code
 
 ---
@@ -53,7 +59,7 @@
 
 ## Experience:
 
----
+## There’s nothing else.
 
 ## Education:
 
@@ -69,4 +75,4 @@
 
 **Russian** - Native
 
-**Engkish** - A1
+**English** - A1
