@@ -6,9 +6,7 @@
 
 **Location:** Dovainonys, Lietuva
 
-**Phone:** +375 29 264 03 47
-
-           +370 607 15 275
+**Phone:** +375 29 264 03 47, +370 607 15 275
 
 **E-mail:** ivangro@tut.by
 
@@ -26,7 +24,7 @@ At the moment I have a weak level of English, but I will fix everything. I’ll 
 
 I put a lot of effort into everything I do, and I’m immersed in my work. I don’t get distracted at work. I know, to achieve something more, needs knowledge and a lot of practice.
 
-## I like activity, movement, travel and sports. I'm friendly and funny.
+I like activity, movement, travel and sports. I'm friendly and funny.
 
 ## Skills:
 
@@ -59,7 +57,7 @@ I put a lot of effort into everything I do, and I’m immersed in my work. I don
 
 ## Experience:
 
-## There’s nothing else.
+There’s nothing else.
 
 ## Education:
 
