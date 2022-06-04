@@ -1,3 +1,4 @@
 # rsschool-cv
 
-https://ivhr404.github.io/rsschool-cv/
+https://ivhr404.github.io/rsschool-cv/cv
+https://ivhr404.github.io/rsschool-cv
