@@ -28,11 +28,10 @@ body {
   background-color: #51793807;
 }
 
-@media (max-width: 768px) {
-  .section,
-  .main-section,
-  .conteiner {
-    width: 100%;
+@media screen and (max-width: 700px) {
+  body {
+    display: block;
+    flex-direction: row;
   }
 }
 
