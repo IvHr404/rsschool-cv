@@ -25,23 +25,26 @@ body {
   color: #4d2323;
 }
 
-.header {
+.header,
+.footer {
   line-height: 4em;
-  background-color: rgba(233, 233, 235, 0.72);
+  background-color: #f0faf2;
 }
 
 .nav-list,
 .nav-item {
   display: flex;
+
   margin: 0 auto;
   padding: 0;
 }
 
 .nav-link {
   text-align: center;
-  list-style: none;
-  padding: 0;
   text-decoration: none;
+  list-style: none;
+
+  padding: 0;
   color: #82aa85;
 
   transition: color 0.5s;
@@ -49,4 +52,30 @@ body {
 
 .nav-link:hover {
   color: #341818;
+}
+
+.footer {
+  display: flex;
+}
+
+.footer-ul {
+  display: flex;
+  justify-content: space-evenly;
+
+  list-style: none;
+
+  margin: 0 auto;
+  padding: 0;
+
+  color: #000000;
+}
+
+footer h2 {
+  padding: 0 2em;
+  margin: 0;
+}
+
+.footer-img {
+  padding: 0.5em 2em;
+  height: 100%;
 }
